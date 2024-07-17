@@ -115,11 +115,12 @@
         align-items: center;
         gap: 34px;
     }
+    
 
     .skill
     {
         width: 100%;
-        flex-direction: row;
+        flex-direction: column;
         justify-content: center;
     }
     .history

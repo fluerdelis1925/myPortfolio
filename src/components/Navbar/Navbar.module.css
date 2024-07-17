@@ -37,7 +37,10 @@
     color: var(--color-text);
     text-decoration: none;
 }
-
+.menuBtn
+{
+  display: none;
+}
 /* Media Query */
 @media screen and (max-width: 830px) {
     .navbar {
